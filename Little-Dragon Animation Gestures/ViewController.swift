@@ -12,7 +12,9 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var littleDragonView: UIImageView!
     
-    
+    // instance variables 
+    var frames: NSArray?
+    var theCenter: CGPoint?
     
     
 
